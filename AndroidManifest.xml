@@ -3378,5 +3378,9 @@
             </intent-filter>
         </service>
 
+        <!-- Gesture Anywhere -->
+        <activity android:name="com.dirtyunicorns.dutweaks.fragments.GestureAnywhereBuilderActivity" />
+        <activity android:name="com.dirtyunicorns.dutweaks.fragments.GestureAnywhereCreateGestureActivity" />
+        
     </application>
 </manifest>
